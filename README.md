@@ -1,2 +1,5 @@
 # AI-Financial-Planner-Using-LLM-And-Random-Forest-Regressor
-Effective personal finance management is vital for informed decisions and financial stability, yet manual tracking is tedious and error-prone. Traditional methods lack real-time insights, while AI-powered expense trackers offer automation, precision, and smart financial guidance. Our proposed system uses a Large Language Model to analyze spending patterns, provide personalized advice, and support proactive budgeting. With dynamic updates, predictive analytics, and strong data security, it transforms conventional tracking into an intelligent financial assistant.
+An AI-powered expense tracker using a Large Language Model (LLM) for smart financial management.
+It analyzes spending patterns, provides personalized insights, and suggests budgeting strategies.
+Features include real-time updates, visual reports, and predictive analytics for future planning.
+Built with strong data security protocols to ensure safe and intelligent financial tracking.
